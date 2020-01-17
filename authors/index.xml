@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Michael Hutchinson</title>
-    <link>MJHutchinson.github.io/authors/</link>
-      <atom:link href="MJHutchinson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>MJHutchinson.github.io/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>MJHutchinson.github.io/authors/</link>
+      <link>https://mjhutchinson.github.io/authors/</link>
     </image>
     
     <item>
       <title>Michael Hutchinson</title>
-      <link>MJHutchinson.github.io/authors/michael-hutchinson/</link>
+      <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>MJHutchinson.github.io/authors/michael-hutchinson/</guid>
+      <guid>https://mjhutchinson.github.io/authors/michael-hutchinson/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>MJHutchinson.github.io/authors/admin/</link>
+      <link>https://mjhutchinson.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>MJHutchinson.github.io/authors/admin/</guid>
+      <guid>https://mjhutchinson.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Hi I&amp;rsquo;m Michael! I&amp;rsquo;m interested in machine learning, particularly the Bayesian flavour.&lt;/p&gt;
 
-&lt;p&gt;Recently I&amp;rsquo;ve worked on Architecture Search of Bayesian Neural Networks, and &lt;a href=&#34;MJHutchinson.github.io/project/2019-10-01-differentially-private-pvi/&#34; target=&#34;_blank&#34;&gt;Differential Privacy for Federated and Continual Bayesian Learning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recently I&amp;rsquo;ve worked on Architecture Search of Bayesian Neural Networks, and &lt;a href=&#34;https://mjhutchinson.github.io/project/2019-10-01-differentially-private-pvi/&#34; target=&#34;_blank&#34;&gt;Differential Privacy for Federated and Continual Bayesian Learning&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Broadly I&amp;rsquo;m interested in statistically principled machine learning. I&amp;rsquo;m working on pushing the theoretical boundaries of this, and help make it useful in the real world! Things that I think are interesting currently include approximate inference for large models (such as variational inference), validation methods for these approximations (such as uncertainty quantification), and generative modelling.&lt;/p&gt;
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Michael Hutchinson</title>
-    <link>MJHutchinson.github.io/project/</link>
-      <atom:link href="MJHutchinson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/project/</link>
+      <atom:link href="https://mjhutchinson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>MJHutchinson.github.io/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>MJHutchinson.github.io/project/</link>
+      <link>https://mjhutchinson.github.io/project/</link>
     </image>
     
     <item>
       <title>Differential Privacy, Approximate Bayesian Inference and Distributed Learning</title>
-      <link>MJHutchinson.github.io/project/2019-10-01-differentially-private-pvi/</link>
+      <link>https://mjhutchinson.github.io/project/2019-10-01-differentially-private-pvi/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>MJHutchinson.github.io/project/2019-10-01-differentially-private-pvi/</guid>
+      <guid>https://mjhutchinson.github.io/project/2019-10-01-differentially-private-pvi/</guid>
       <description>
 
 &lt;p&gt;Modern machine learning techniques are quickly being applied to a vast range of problems in the real world. However, most modern techniques are not well suited to handle a number of difficult situations. A recent piece of work we did aims to combine approaches for tackling three of these.&lt;/p&gt;
