@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swapnil Mishra | Michael Hutchinson</title>
+    <link>https://mjhutchinson.github.io/authors/swapnil-mishra/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/swapnil-mishra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Swapnil Mishra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <title>Swapnil Mishra</title>
+      <link>https://mjhutchinson.github.io/authors/swapnil-mishra/</link>
+    </image>
+    
+    <item>
+      <title>Report 23: State-level tracking of COVID-19 in the United States</title>
+      <link>https://mjhutchinson.github.io/publication/unwin-2020/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/unwin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
+      <link>https://mjhutchinson.github.io/publication/mellan-2020-report/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/mellan-2020-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

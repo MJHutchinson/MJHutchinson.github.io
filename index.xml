@@ -5,12 +5,36 @@
     <link>https://mjhutchinson.github.io/</link>
       <atom:link href="https://mjhutchinson.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Hutchinson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Michael Hutchinson</title>
       <link>https://mjhutchinson.github.io/</link>
     </image>
+    
+    <item>
+      <title>Report 23: State-level tracking of COVID-19 in the United States</title>
+      <link>https://mjhutchinson.github.io/publication/unwin-2020/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/unwin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
+      <link>https://mjhutchinson.github.io/publication/mellan-2020-report/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/mellan-2020-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report 20: A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
+      <link>https://mjhutchinson.github.io/publication/vollmer-2020-report/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/vollmer-2020-report/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Started at the University of Oxford</title>
@@ -36,9 +60,9 @@
     
     <item>
       <title>Differential Privacy, Approximate Bayesian Inference and Distributed Learning</title>
-      <link>https://mjhutchinson.github.io/project/2019-10-01-differentially-private-pvi/</link>
+      <link>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/project/2019-10-01-differentially-private-pvi/</guid>
+      <guid>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</guid>
       <description>
 
 &lt;p&gt;Modern machine learning techniques are quickly being applied to a vast range of problems in the real world. However, most modern techniques are not well suited to handle a number of difficult situations. A recent piece of work we did aims to combine approaches for tackling three of these.&lt;/p&gt;

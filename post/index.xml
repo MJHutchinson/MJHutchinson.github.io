@@ -5,12 +5,68 @@
     <link>https://mjhutchinson.github.io/post/</link>
       <atom:link href="https://mjhutchinson.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://mjhutchinson.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Differential Privacy, Approximate Bayesian Inference and Distributed Learning</title>
+      <link>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</guid>
+      <description>
+
+&lt;p&gt;Modern machine learning techniques are quickly being applied to a vast range of problems in the real world. However, most modern techniques are not well suited to handle a number of difficult situations. A recent piece of work we did aims to combine approaches for tackling three of these.&lt;/p&gt;
+
+&lt;h3 id=&#34;situations-where-we-would-like-uncertainty-estimates-in-our-predictions&#34;&gt;Situations where we would like uncertainty estimates in our predictions&lt;/h3&gt;
+
+&lt;p&gt;For tasks such as classifying each photo in you photo library into a number of categories, or tagging them each as a particular person, the downsides to getting the decision wrong are minimal, if annoying for the end user. There are many other settings where the downsides to making the incorrect choice could mean life or death, such as medical applications, or driverless cars.&lt;/p&gt;
+
+&lt;p&gt;In these situations, we would like to know exactly how confident our model is in its predictions or decisions, so that downstream systems can account for this when taking action. For example when a driverless car is planning how to turn right, we&amp;rsquo;d very much like to know if it&amp;rsquo;s 99% sure that nothing is in its way, or if its a &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; toss up between that and a small child.&lt;/p&gt;
+
+&lt;p&gt;This kind of problem can be solved with a more principled application of statistics to Machine Learning. When applied to deep learning this is often refereed to as &lt;em&gt;&lt;a href=&#34;http://bayesiandeeplearning.org/&#34; target=&#34;_blank&#34;&gt;Bayesian Deep Learning&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There exists a large body of literature in this area. In this project we focused on Variational Inference (VI) techniques.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;situations-where-the-data-we-wish-to-learn-from-isn-t-in-one-place&#34;&gt;Situations where the data we wish to learn from isn&amp;rsquo;t in one place&lt;/h3&gt;
+
+&lt;p&gt;It is easy to imagine that for a number of reasons, the data we want our model to learn from cannot be bought to a single locations. Examples may include legal reasons (e.g. the recent &lt;a href=&#34;https://en.wikipedia.org/wiki/General_Data_Protection_Regulation&#34; target=&#34;_blank&#34;&gt;GDPR&lt;/a&gt; in Europe), or practical reasons (such as mobile phone/edge device data, or data that is too large to be efficiently transported).&lt;/p&gt;
+
+&lt;p&gt;In these situations, we would still like to be able to learn from this data, but many techniques cannot naively handle this. This area of work again has a large body of work, and is know as &lt;em&gt;Distributed or Federated Learning&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;situations-where-the-data-we-are-handling-is-privacy-sensitive&#34;&gt;Situations where the data we are handling is privacy-sensitive&lt;/h3&gt;
+
+&lt;p&gt;Much of the data that we would like to use to train Machine Learning models is sensitive to someone in some way. This could be medical data, browsing history, or financial data. Data sources (i.e. the individuals from whom this data is collected) are rightly skeptical about handing over their information to third parities.&lt;/p&gt;
+
+&lt;p&gt;Recent work showed that deep learning models have a tendency to memorise their input data, and using targeted attacks some input data can be recovered from them.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; In this case, the threat to a users sensitive data comes not just from people to whom they hand their data, but from anyone who has access to the models trained on their data.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Differential Privacy&lt;/em&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; is the current gold standard in protecting the privacy of data while extracting information from it. By carefully processing updates, and in particular by adding noise, we can achieve a series of guarantees regarding information leakage, user utility loss, and more.&lt;/p&gt;
+
+&lt;h3 id=&#34;differnetial-private-federated-variational-inference&#34;&gt;Differnetial Private Federated Variational Inference&lt;/h3&gt;
+
+&lt;p&gt;Our recent work builds on the Partition Variational Inference&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; framework, a Variational Inference framework that allows for easy distributed and continual learning, and extends this to include privacy preserving updates based on recent differential privacy literature. There will be an arxiv preprint available soon. In the meantime, check out the &lt;a href=&#34;github.com/MrinankSharma/DP-PVI&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt;, and feel free to get in touch with any questions!&lt;/p&gt;
+
+&lt;p&gt;UPDATE: This paper has been accepted to the &lt;a href=&#34;https://priml-workshop.github.io/priml2019/&#34; target=&#34;_blank&#34;&gt;Privacy in Machine Learning workshop&lt;/a&gt; at Neurips 2019!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Blei, David M., Alp Kucukelbir, and Jon D. McAuliffe. &amp;ldquo;Variational inference: A review for statisticians.&amp;rdquo; Journal of the American statistical Association 112.518 (2017): 859-877. &lt;a href=&#34;https://arxiv.org/abs/1601.00670&#34; target=&#34;_blank&#34;&gt;arxiv&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Carlini, Nicholas, et al. &amp;ldquo;The secret sharer: Measuring unintended neural network memorization &amp;amp; extracting secrets.&amp;rdquo; arXiv preprint arXiv:1802.08232 (2018). &lt;a href=&#34;https://arxiv.org/abs/1802.08232&#34; target=&#34;_blank&#34;&gt;arxiv&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;Dwork, Cynthia, and Aaron Roth. &amp;ldquo;The algorithmic foundations of differential privacy.&amp;rdquo; Foundations and Trends® in Theoretical Computer Science 9.3–4 (2014): 211-407. &lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/privacybook.html&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;Bui, Thang D., et al. &amp;ldquo;Partitioned Variational Inference: A unified framework encompassing federated and continual learning.&amp;rdquo; arXiv preprint arXiv:1811.11206 (2018). &lt;a href=&#34;https://arxiv.org/abs/1811.11206&#34; target=&#34;_blank&#34;&gt;arxiv&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
