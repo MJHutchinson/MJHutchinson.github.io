@@ -10,6 +10,26 @@
 
   
 
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168430963-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-168430963-1');
+</script>
+
+
+  
+
+
+  
+
   
   
   
@@ -85,50 +105,6 @@
   
   
   <link rel="stylesheet" href="/css/academic.css">
-
-  
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168430963-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-168430963-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
-
 
   
   <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Michael Hutchinson">
@@ -480,7 +456,7 @@
 <div class="media stream-item">
   <div class="media-body">
     <h3 class="citation-list-title mb-0 mt-0">
-      <a href="https://openreview.net/forum?id=NuBVOoSnlTh&amp;noteId=wcYAXeS-Why" target="_blank" rel="noopener">Report 23: State-level tracking of COVID-19 in the United States</a>
+      <a href="https://openreview.net/forum?id=NuBVOoSnlTh" target="_blank" rel="noopener">Report 23: State-level tracking of COVID-19 in the United States</a>
     </h3>
 
     <div class="stream-meta article-metadata mt-0">
@@ -571,7 +547,7 @@
     
     
     
-    <a href="https://openreview.net/forum?id=NuBVOoSnlTh&amp;noteId=wcYAXeS-Why" target="_blank" rel="noopener">
+    <a href="https://openreview.net/forum?id=NuBVOoSnlTh" target="_blank" rel="noopener">
       <img src="/publication/unwin-2020/featured_huc35bbf223475b6e5576db0215cb0978e_44813_100x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
