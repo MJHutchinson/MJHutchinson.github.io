@@ -5,12 +5,20 @@
     <link>https://mjhutchinson.github.io/authors/</link>
       <atom:link href="https://mjhutchinson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://mjhutchinson.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Michael Hutchinson</title>
+      <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/michael-hutchinson/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Axel Gandy</title>
@@ -65,14 +73,6 @@
       <link>https://mjhutchinson.github.io/authors/melodie-monod/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/melodie-monod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Hutchinson</title>
-      <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/michael-hutchinson/</guid>
       <description></description>
     </item>
     

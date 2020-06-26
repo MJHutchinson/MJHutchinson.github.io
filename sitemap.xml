@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mjhutchinson.github.io/publication_types/4/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+    <loc>https://mjhutchinson.github.io/authors/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mjhutchinson.github.io/authors/</loc>
+    <loc>https://mjhutchinson.github.io/post/2020-06-25-mlss/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/michael-hutchinson/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/post/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/publication_types/4/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,16 +64,6 @@
   
   <url>
     <loc>https://mjhutchinson.github.io/authors/melodie-monod/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/authors/michael-hutchinson/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -224,11 +234,6 @@
   
   <url>
     <loc>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/post/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
   </url>
   
