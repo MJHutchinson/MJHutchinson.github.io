@@ -21,6 +21,62 @@
     </item>
     
     <item>
+      <title>Andrei Paleyes</title>
+      <link>https://mjhutchinson.github.io/authors/andrei-paleyes/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/andrei-paleyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Johnson</title>
+      <link>https://mjhutchinson.github.io/authors/anne-johnson/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/anne-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bobby He*</title>
+      <link>https://mjhutchinson.github.io/authors/bobby-he/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/bobby-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryn Elesedy*</title>
+      <link>https://mjhutchinson.github.io/authors/bryn-elesedy/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/bryn-elesedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guy Harling</title>
+      <link>https://mjhutchinson.github.io/authors/guy-harling/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/guy-harling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheheryar Zaidi*</title>
+      <link>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yee Whye Teh</title>
+      <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/yee-whye-teh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Axel Gandy</title>
       <link>https://mjhutchinson.github.io/authors/axel-gandy/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
@@ -271,7 +327,7 @@
     <item>
       <title>Antti Honkela</title>
       <link>https://mjhutchinson.github.io/authors/antti-honkela/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/antti-honkela/</guid>
       <description></description>
     </item>
@@ -279,7 +335,7 @@
     <item>
       <title>Mrinank Sharma*</title>
       <link>https://mjhutchinson.github.io/authors/mrinank-sharma/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/mrinank-sharma/</guid>
       <description></description>
     </item>
@@ -287,7 +343,7 @@
     <item>
       <title>Richard E Turner</title>
       <link>https://mjhutchinson.github.io/authors/richard-e-turner/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/richard-e-turner/</guid>
       <description></description>
     </item>
@@ -295,7 +351,7 @@
     <item>
       <title>Siddharth Swaroop</title>
       <link>https://mjhutchinson.github.io/authors/siddharth-swaroop/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/siddharth-swaroop/</guid>
       <description></description>
     </item>
@@ -307,13 +363,15 @@
       <guid>https://mjhutchinson.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Hi I&amp;rsquo;m Michael! I&amp;rsquo;m interested in machine learning, particularly the Bayesian flavour.&lt;/p&gt;
 
-&lt;p&gt;Recently I&amp;rsquo;ve worked on Architecture Search of Bayesian Neural Networks, and &lt;a href=&#34;https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/&#34; target=&#34;_blank&#34;&gt;Differential Privacy for Federated and Continual Bayesian Learning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recently I have been working on Equivariance in Deep Learning, and various &lt;a href=&#34;#publications&#34; target=&#34;_blank&#34;&gt;COIVD-19 statistical modelling efforts&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Broadly I&amp;rsquo;m interested in statistically principled machine learning. I&amp;rsquo;m working on pushing the theoretical boundaries of this, and help make it useful in the real world! Things that I think are interesting currently include approximate inference for large models (such as variational inference), validation methods for these approximations (such as uncertainty quantification), and generative modelling.&lt;/p&gt;
+&lt;p&gt;Previously I&amp;rsquo;ve worked on Architecture Search of Bayesian Neural Networks, and &lt;a href=&#34;https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/&#34; target=&#34;_blank&#34;&gt;Differential Privacy for Federated and Continual Bayesian Learning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Broadly I&amp;rsquo;m interested in statistically principled machine learning. I&amp;rsquo;m working on pushing the theoretical boundaries of this, and help make it useful in the real world!&lt;/p&gt;
 
 &lt;p&gt;My interests aren&amp;rsquo;t completely settled however, and I&amp;rsquo;m always keen to explore new areas. Reinforcement Learning is the next on my todo list.&lt;/p&gt;
 
-&lt;p&gt;I recently started a PhD course at the University of Oxford through the &lt;a href=&#34;https://statml.io/&#34; target=&#34;_blank&#34;&gt;StatML&lt;/a&gt; course, supervised by &lt;a href=&#34;http://www.stats.ox.ac.uk/~teh/&#34; target=&#34;_blank&#34;&gt;Yee Whye Teh&lt;/a&gt;. Before that I completed a Masters of Engineering at the University of Cambridge, supervised by &lt;a href=&#34;http://cbl.eng.cam.ac.uk/Public/Turner/Turner&#34; target=&#34;_blank&#34;&gt;Dr Rich E. Turner&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I recently started a PhD course at the University of Oxford through the &lt;a href=&#34;https://statml.io/&#34; target=&#34;_blank&#34;&gt;StatML&lt;/a&gt; course, supervised by &lt;a href=&#34;http://www.stats.ox.ac.uk/~teh/&#34; target=&#34;_blank&#34;&gt;Yee Whye Teh&lt;/a&gt; and &lt;a href=&#34;https://staff.fnwi.uva.nl/m.welling/&#34; target=&#34;_blank&#34;&gt;Max Welling&lt;/a&gt;. Before that I completed a Masters of Engineering at the University of Cambridge, supervised by &lt;a href=&#34;http://cbl.eng.cam.ac.uk/Public/Turner/Turner&#34; target=&#34;_blank&#34;&gt;Dr Rich E. Turner&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

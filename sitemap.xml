@@ -13,18 +13,73 @@
   </url>
   
   <url>
-    <loc>https://mjhutchinson.github.io/authors/michael-hutchinson/</loc>
+    <loc>https://mjhutchinson.github.io/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mjhutchinson.github.io/</loc>
+    <loc>https://mjhutchinson.github.io/authors/michael-hutchinson/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mjhutchinson.github.io/post/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/publication_types/2/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/andrei-paleyes/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/anne-johnson/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/bobby-he/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/bryn-elesedy/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/guy-harling/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/publication_types/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/publication/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/publication/he-2020-technical/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/yee-whye-teh/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,16 +138,6 @@
   </url>
   
   <url>
-    <loc>https://mjhutchinson.github.io/publication_types/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/publication/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mjhutchinson.github.io/publication/unwin-2020/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
@@ -120,11 +165,6 @@
   <url>
     <loc>https://mjhutchinson.github.io/authors/xiaoyue-xi/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/publication_types/2/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -228,43 +268,43 @@
   </url>
   
   <url>
+    <loc>https://mjhutchinson.github.io/publication_types/1/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/antti-honkela/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/publication/sharma-2019/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mjhutchinson.github.io/news/neurips_2019_diff_priv/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/mrinank-sharma/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/richard-e-turner/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjhutchinson.github.io/authors/siddharth-swaroop/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/publication_types/1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/authors/antti-honkela/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/publication/sharma-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/authors/mrinank-sharma/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/authors/richard-e-turner/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjhutchinson.github.io/authors/siddharth-swaroop/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

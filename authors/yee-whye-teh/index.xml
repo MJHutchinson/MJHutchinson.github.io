@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/publication_types/2/</link>
-      <atom:link href="https://mjhutchinson.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Yee Whye Teh | Michael Hutchinson</title>
+    <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/yee-whye-teh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yee Whye Teh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
-      <title>2</title>
-      <link>https://mjhutchinson.github.io/publication_types/2/</link>
+      <title>Yee Whye Teh</title>
+      <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://mjhutchinson.github.io/publication/he-2020-technical/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/publication/he-2020-technical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
-      <link>https://mjhutchinson.github.io/publication/mellan-2020-report/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/mellan-2020-report/</guid>
       <description></description>
     </item>
     
