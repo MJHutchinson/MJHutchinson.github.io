@@ -5,7 +5,7 @@
     <link>https://mjhutchinson.github.io/authors/</link>
       <atom:link href="https://mjhutchinson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,250 @@
     </image>
     
     <item>
+      <title>Charline Le Lan*</title>
+      <link>https://mjhutchinson.github.io/authors/charline-le-lan/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/charline-le-lan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emilien Dupont</title>
+      <link>https://mjhutchinson.github.io/authors/emilien-dupont/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/emilien-dupont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyunjik Kim</title>
+      <link>https://mjhutchinson.github.io/authors/hyunjik-kim/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/hyunjik-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Michael Hutchinson</title>
       <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/michael-hutchinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheheryar Zaidi*</title>
+      <link>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yee Whye Teh</title>
+      <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/yee-whye-teh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Holderrieth</title>
+      <link>https://mjhutchinson.github.io/authors/peter-holderrieth/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/peter-holderrieth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandra Blenkinsop</title>
+      <link>https://mjhutchinson.github.io/authors/alexandra-blenkinsop/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/alexandra-blenkinsop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Bezancon</title>
+      <link>https://mjhutchinson.github.io/authors/anne-bezancon/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/anne-bezancon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axel Gandy</title>
+      <link>https://mjhutchinson.github.io/authors/axel-gandy/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/axel-gandy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Hebert</title>
+      <link>https://mjhutchinson.github.io/authors/daniel-hebert/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/daniel-hebert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Juliette T Unwin</title>
+      <link>https://mjhutchinson.github.io/authors/h-juliette-t-unwin/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/h-juliette-t-unwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harrison Zhu</title>
+      <link>https://mjhutchinson.github.io/authors/harrison-zhu/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/harrison-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helen Coupland</title>
+      <link>https://mjhutchinson.github.io/authors/helen-coupland/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/helen-coupland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Ish-Horowicz</title>
+      <link>https://mjhutchinson.github.io/authors/jonathan-ish-horowicz/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/jonathan-ish-horowicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin McManus</title>
+      <link>https://mjhutchinson.github.io/authors/martin-mcmanus/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/martin-mcmanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michaela A. C. Vollmer</title>
+      <link>https://mjhutchinson.github.io/authors/michaela-a.-c.-vollmer/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/michaela-a.-c.-vollmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mélodie Monod</title>
+      <link>https://mjhutchinson.github.io/authors/melodie-monod/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/melodie-monod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neil M Ferguson</title>
+      <link>https://mjhutchinson.github.io/authors/neil-m-ferguson/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/neil-m-ferguson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver Ratmann</title>
+      <link>https://mjhutchinson.github.io/authors/oliver-ratmann/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/oliver-ratmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samir Bhatt</title>
+      <link>https://mjhutchinson.github.io/authors/samir-bhatt/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/samir-bhatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Filippi</title>
+      <link>https://mjhutchinson.github.io/authors/sarah-filippi/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/sarah-filippi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Weber</title>
+      <link>https://mjhutchinson.github.io/authors/sebastian-weber/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/sebastian-weber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seth Flaxman</title>
+      <link>https://mjhutchinson.github.io/authors/seth-flaxman/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/seth-flaxman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Tietze</title>
+      <link>https://mjhutchinson.github.io/authors/simon-tietze/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/simon-tietze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sivan Bershan</title>
+      <link>https://mjhutchinson.github.io/authors/sivan-bershan/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/sivan-bershan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swapnil Mishra</title>
+      <link>https://mjhutchinson.github.io/authors/swapnil-mishra/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/swapnil-mishra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas A Mellan</title>
+      <link>https://mjhutchinson.github.io/authors/thomas-a-mellan/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/thomas-a-mellan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valerie C Bradley</title>
+      <link>https://mjhutchinson.github.io/authors/valerie-c-bradley/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/valerie-c-bradley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoyue Xi</title>
+      <link>https://mjhutchinson.github.io/authors/xiaoyue-xi/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/xiaoyue-xi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Chen</title>
+      <link>https://mjhutchinson.github.io/authors/yu-chen/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/authors/yu-chen/</guid>
       <description></description>
     </item>
     
@@ -61,58 +301,10 @@
     </item>
     
     <item>
-      <title>Sheheryar Zaidi*</title>
-      <link>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yee Whye Teh</title>
-      <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/yee-whye-teh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Axel Gandy</title>
-      <link>https://mjhutchinson.github.io/authors/axel-gandy/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/axel-gandy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Charlie Whittaker</title>
       <link>https://mjhutchinson.github.io/authors/charlie-whittaker/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/charlie-whittaker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H Juliette T Unwin</title>
-      <link>https://mjhutchinson.github.io/authors/h-juliette-t-unwin/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/h-juliette-t-unwin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helen Coupland</title>
-      <link>https://mjhutchinson.github.io/authors/helen-coupland/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/helen-coupland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Ish Horowicz</title>
-      <link>https://mjhutchinson.github.io/authors/jonathan-ish-horowicz/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/jonathan-ish-horowicz/</guid>
       <description></description>
     </item>
     
@@ -125,26 +317,10 @@
     </item>
     
     <item>
-      <title>Melodie Monod</title>
-      <link>https://mjhutchinson.github.io/authors/melodie-monod/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/melodie-monod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michaela A C Vollmer</title>
       <link>https://mjhutchinson.github.io/authors/michaela-a-c-vollmer/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/michaela-a-c-vollmer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oliver Ratmann</title>
-      <link>https://mjhutchinson.github.io/authors/oliver-ratmann/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/oliver-ratmann/</guid>
       <description></description>
     </item>
     
@@ -157,50 +333,10 @@
     </item>
     
     <item>
-      <title>Sarah Filippi</title>
-      <link>https://mjhutchinson.github.io/authors/sarah-filippi/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/sarah-filippi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swapnil Mishra</title>
-      <link>https://mjhutchinson.github.io/authors/swapnil-mishra/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/swapnil-mishra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thomas Mellan</title>
       <link>https://mjhutchinson.github.io/authors/thomas-mellan/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/thomas-mellan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valerie C Bradley</title>
-      <link>https://mjhutchinson.github.io/authors/valerie-c-bradley/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/valerie-c-bradley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaoyue Xi</title>
-      <link>https://mjhutchinson.github.io/authors/xiaoyue-xi/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/xiaoyue-xi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harrison Zhu</title>
-      <link>https://mjhutchinson.github.io/authors/harrison-zhu/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/harrison-zhu/</guid>
       <description></description>
     </item>
     
@@ -241,14 +377,6 @@
       <link>https://mjhutchinson.github.io/authors/ricardo-p-schnekenberg/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/authors/ricardo-p-schnekenberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas A Mellan</title>
-      <link>https://mjhutchinson.github.io/authors/thomas-a-mellan/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/authors/thomas-a-mellan/</guid>
       <description></description>
     </item>
     
@@ -363,9 +491,9 @@
       <guid>https://mjhutchinson.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Hi I&amp;rsquo;m Michael! I&amp;rsquo;m interested in machine learning, particularly the Bayesian flavour.&lt;/p&gt;
 
-&lt;p&gt;Recently I have been working on Equivariance in Deep Learning, and various &lt;a href=&#34;#publications&#34; target=&#34;_blank&#34;&gt;COIVD-19 statistical modelling efforts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recently I have been working on &lt;a href=&#34;#publications&#34;&gt;Equivariance in Deep Learning&lt;/a&gt;, and various &lt;a href=&#34;#publications&#34;&gt;COIVD-19 statistical modelling efforts&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Previously I&amp;rsquo;ve worked on Architecture Search of Bayesian Neural Networks, and &lt;a href=&#34;https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/&#34; target=&#34;_blank&#34;&gt;Differential Privacy for Federated and Continual Bayesian Learning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Previously I&amp;rsquo;ve worked on &lt;a href=&#34;https://github.com/MJHutchinson/Masters-Thesis/raw/master/Final%20report%20v2.pdf&#34; target=&#34;_blank&#34;&gt;Architecture Search of Bayesian Neural Networks&lt;/a&gt;, and &lt;a href=&#34;https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/&#34; target=&#34;_blank&#34;&gt;Differential Privacy for Federated and Continual Bayesian Learning&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Broadly I&amp;rsquo;m interested in statistically principled machine learning. I&amp;rsquo;m working on pushing the theoretical boundaries of this, and help make it useful in the real world!&lt;/p&gt;
 

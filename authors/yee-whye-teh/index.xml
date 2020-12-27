@@ -5,12 +5,28 @@
     <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
       <atom:link href="https://mjhutchinson.github.io/authors/yee-whye-teh/index.xml" rel="self" type="application/rss+xml" />
     <description>Yee Whye Teh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Yee Whye Teh</title>
       <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
     </image>
+    
+    <item>
+      <title>LieTransformer: Equivariant self-attention for Lie Groups</title>
+      <link>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivariant Conditional Neural Processes</title>
+      <link>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Technical Document 3: Effectiveness and Resource Requirements of Test, Trace and Isolate Strategies</title>

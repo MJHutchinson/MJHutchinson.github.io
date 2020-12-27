@@ -5,12 +5,36 @@
     <link>https://mjhutchinson.github.io/</link>
       <atom:link href="https://mjhutchinson.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Hutchinson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Michael Hutchinson</title>
       <link>https://mjhutchinson.github.io/</link>
     </image>
+    
+    <item>
+      <title>LieTransformer: Equivariant self-attention for Lie Groups</title>
+      <link>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivariant Conditional Neural Processes</title>
+      <link>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
+      <link>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning Summer School 2020</title>
