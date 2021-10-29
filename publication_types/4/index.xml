@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/publication_types/4/</link>
-      <atom:link href="https://mjhutchinson.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/4/</link>
+      <atom:link href="http://localhost:1313/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>4</title>
-      <link>https://mjhutchinson.github.io/publication_types/4/</link>
+      <link>http://localhost:1313/publication_types/4/</link>
     </image>
     
     <item>
-      <title>Report 23: State-level tracking of COVID-19 in the United States</title>
-      <link>https://mjhutchinson.github.io/publication/unwin-2020/</link>
+      <title>State-level tracking of COVID-19 in the United States</title>
+      <link>http://localhost:1313/publication/unwin-2020/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/unwin-2020/</guid>
+      <guid>http://localhost:1313/publication/unwin-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Report 20: A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
-      <link>https://mjhutchinson.github.io/publication/vollmer-2020-report/</link>
+      <title>A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
+      <link>http://localhost:1313/publication/vollmer-2020-report/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/vollmer-2020-report/</guid>
+      <guid>http://localhost:1313/publication/vollmer-2020-report/</guid>
       <description></description>
     </item>
     

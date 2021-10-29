@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Henrique H Hoeltgebaum | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/authors/henrique-h-hoeltgebaum/</link>
-      <atom:link href="https://mjhutchinson.github.io/authors/henrique-h-hoeltgebaum/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/henrique-h-hoeltgebaum/</link>
+      <atom:link href="http://localhost:1313/authors/henrique-h-hoeltgebaum/index.xml" rel="self" type="application/rss+xml" />
     <description>Henrique H Hoeltgebaum</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Henrique H Hoeltgebaum</title>
-      <link>https://mjhutchinson.github.io/authors/henrique-h-hoeltgebaum/</link>
+      <link>http://localhost:1313/authors/henrique-h-hoeltgebaum/</link>
     </image>
     
     <item>
       <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
-      <link>https://mjhutchinson.github.io/publication/mellan-2020-report/</link>
+      <link>http://localhost:1313/publication/mellan-2020-report/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/mellan-2020-report/</guid>
+      <guid>http://localhost:1313/publication/mellan-2020-report/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bobby He* | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/authors/bobby-he/</link>
-      <atom:link href="https://mjhutchinson.github.io/authors/bobby-he/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/bobby-he/</link>
+      <atom:link href="http://localhost:1313/authors/bobby-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Bobby He*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Bobby He*</title>
-      <link>https://mjhutchinson.github.io/authors/bobby-he/</link>
+      <link>http://localhost:1313/authors/bobby-he/</link>
     </image>
     
     <item>
+      <title>Efficient Bayesian Inference of Instantaneous Re-production Numbers at Fine Spatial Scales, with an Application to Mapping and Nowcasting the Covid-19 Epidemic in British Local Authorities</title>
+      <link>http://localhost:1313/publication/teh-2021-efficient/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/teh-2021-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Technical Document 3: Effectiveness and Resource Requirements of Test, Trace and Isolate Strategies</title>
-      <link>https://mjhutchinson.github.io/publication/he-2020-technical/</link>
+      <link>http://localhost:1313/publication/he-2020-technical/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/he-2020-technical/</guid>
+      <guid>http://localhost:1313/publication/he-2020-technical/</guid>
       <description></description>
     </item>
     

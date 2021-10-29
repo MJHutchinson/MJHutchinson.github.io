@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu Chen | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/authors/yu-chen/</link>
-      <atom:link href="https://mjhutchinson.github.io/authors/yu-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/yu-chen/</link>
+      <atom:link href="http://localhost:1313/authors/yu-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Yu Chen</title>
-      <link>https://mjhutchinson.github.io/authors/yu-chen/</link>
+      <link>http://localhost:1313/authors/yu-chen/</link>
     </image>
     
     <item>
       <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
-      <link>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</link>
+      <link>http://localhost:1313/publication/monod-2020-09-18-20197376/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</guid>
+      <guid>http://localhost:1313/publication/monod-2020-09-18-20197376/</guid>
       <description></description>
     </item>
     

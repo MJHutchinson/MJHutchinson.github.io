@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neil M Ferguson | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/authors/neil-m-ferguson/</link>
-      <atom:link href="https://mjhutchinson.github.io/authors/neil-m-ferguson/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/neil-m-ferguson/</link>
+      <atom:link href="http://localhost:1313/authors/neil-m-ferguson/index.xml" rel="self" type="application/rss+xml" />
     <description>Neil M Ferguson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Neil M Ferguson</title>
-      <link>https://mjhutchinson.github.io/authors/neil-m-ferguson/</link>
+      <link>http://localhost:1313/authors/neil-m-ferguson/</link>
     </image>
     
     <item>
       <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
-      <link>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</link>
+      <link>http://localhost:1313/publication/monod-2020-09-18-20197376/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</guid>
+      <guid>http://localhost:1313/publication/monod-2020-09-18-20197376/</guid>
       <description></description>
     </item>
     

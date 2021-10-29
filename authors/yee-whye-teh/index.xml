@@ -2,37 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yee Whye Teh | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
-      <atom:link href="https://mjhutchinson.github.io/authors/yee-whye-teh/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/yee-whye-teh/</link>
+      <atom:link href="http://localhost:1313/authors/yee-whye-teh/index.xml" rel="self" type="application/rss+xml" />
     <description>Yee Whye Teh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Yee Whye Teh</title>
-      <link>https://mjhutchinson.github.io/authors/yee-whye-teh/</link>
+      <link>http://localhost:1313/authors/yee-whye-teh/</link>
     </image>
     
     <item>
+      <title>Vector-valued Gaussian Processes on Riemannian Manifolds via Gauge Equivariant Projected Kernels</title>
+      <link>http://localhost:1313/publication/hutchinson-2021-gauge/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hutchinson-2021-gauge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Bayesian Inference of Instantaneous Re-production Numbers at Fine Spatial Scales, with an Application to Mapping and Nowcasting the Covid-19 Epidemic in British Local Authorities</title>
+      <link>http://localhost:1313/publication/teh-2021-efficient/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/teh-2021-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LieTransformer: Equivariant self-attention for Lie Groups</title>
-      <link>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</link>
+      <link>http://localhost:1313/publication/hutchinson-2020-lietransformer/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</guid>
+      <guid>http://localhost:1313/publication/hutchinson-2020-lietransformer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equivariant Learning of Stochastic Fields: Gaussian Processes and Steerable Conditional Neural Processes </title>
-      <link>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</link>
+      <link>http://localhost:1313/publication/holderrieth-2020-equivariant/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</guid>
+      <guid>http://localhost:1313/publication/holderrieth-2020-equivariant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical Document 3: Effectiveness and Resource Requirements of Test, Trace and Isolate Strategies</title>
-      <link>https://mjhutchinson.github.io/publication/he-2020-technical/</link>
+      <link>http://localhost:1313/publication/he-2020-technical/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/he-2020-technical/</guid>
+      <guid>http://localhost:1313/publication/he-2020-technical/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyunjik Kim | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/authors/hyunjik-kim/</link>
-      <atom:link href="https://mjhutchinson.github.io/authors/hyunjik-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/hyunjik-kim/</link>
+      <atom:link href="http://localhost:1313/authors/hyunjik-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunjik Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Hyunjik Kim</title>
-      <link>https://mjhutchinson.github.io/authors/hyunjik-kim/</link>
+      <link>http://localhost:1313/authors/hyunjik-kim/</link>
     </image>
     
     <item>
       <title>LieTransformer: Equivariant self-attention for Lie Groups</title>
-      <link>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</link>
+      <link>http://localhost:1313/publication/hutchinson-2020-lietransformer/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</guid>
+      <guid>http://localhost:1313/publication/hutchinson-2020-lietransformer/</guid>
       <description></description>
     </item>
     

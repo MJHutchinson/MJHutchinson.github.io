@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UA-168430963-1 | Michael Hutchinson</title>
-    <link>https://mjhutchinson.github.io/ua-168430963-1/</link>
-      <atom:link href="https://mjhutchinson.github.io/ua-168430963-1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ua-168430963-1/</link>
+      <atom:link href="http://localhost:1313/ua-168430963-1/index.xml" rel="self" type="application/rss+xml" />
     <description>UA-168430963-1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>UA-168430963-1</title>
-      <link>https://mjhutchinson.github.io/ua-168430963-1/</link>
+      <link>http://localhost:1313/ua-168430963-1/</link>
     </image>
     
   </channel>
