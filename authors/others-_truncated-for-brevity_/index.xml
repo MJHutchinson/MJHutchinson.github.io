@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>others _(truncated for brevity)_ | Michael Hutchinson</title>
-    <link>http://localhost:1313/authors/others-_truncated-for-brevity_/</link>
-      <atom:link href="http://localhost:1313/authors/others-_truncated-for-brevity_/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/others-_truncated-for-brevity_/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/others-_truncated-for-brevity_/index.xml" rel="self" type="application/rss+xml" />
     <description>others _(truncated for brevity)_</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>others _(truncated for brevity)_</title>
-      <link>http://localhost:1313/authors/others-_truncated-for-brevity_/</link>
+      <link>https://mjhutchinson.github.io/authors/others-_truncated-for-brevity_/</link>
     </image>
     
     <item>
       <title>State-level tracking of COVID-19 in the United States</title>
-      <link>http://localhost:1313/publication/unwin-2020/</link>
+      <link>https://mjhutchinson.github.io/publication/unwin-2020/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/unwin-2020/</guid>
+      <guid>https://mjhutchinson.github.io/publication/unwin-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
-      <link>http://localhost:1313/publication/mellan-2020-report/</link>
+      <link>https://mjhutchinson.github.io/publication/mellan-2020-report/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mellan-2020-report/</guid>
+      <guid>https://mjhutchinson.github.io/publication/mellan-2020-report/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
-      <link>http://localhost:1313/publication/vollmer-2020-report/</link>
+      <link>https://mjhutchinson.github.io/publication/vollmer-2020-report/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vollmer-2020-report/</guid>
+      <guid>https://mjhutchinson.github.io/publication/vollmer-2020-report/</guid>
       <description></description>
     </item>
     

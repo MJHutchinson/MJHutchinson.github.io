@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sarah Filippi | Michael Hutchinson</title>
-    <link>http://localhost:1313/authors/sarah-filippi/</link>
-      <atom:link href="http://localhost:1313/authors/sarah-filippi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/sarah-filippi/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/sarah-filippi/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarah Filippi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Sarah Filippi</title>
-      <link>http://localhost:1313/authors/sarah-filippi/</link>
+      <link>https://mjhutchinson.github.io/authors/sarah-filippi/</link>
     </image>
     
     <item>
       <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
-      <link>http://localhost:1313/publication/monod-2020-09-18-20197376/</link>
+      <link>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/monod-2020-09-18-20197376/</guid>
+      <guid>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</guid>
       <description></description>
     </item>
     
     <item>
       <title>State-level tracking of COVID-19 in the United States</title>
-      <link>http://localhost:1313/publication/unwin-2020/</link>
+      <link>https://mjhutchinson.github.io/publication/unwin-2020/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/unwin-2020/</guid>
+      <guid>https://mjhutchinson.github.io/publication/unwin-2020/</guid>
       <description></description>
     </item>
     

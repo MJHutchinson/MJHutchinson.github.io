@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siddharth Swaroop | Michael Hutchinson</title>
-    <link>http://localhost:1313/authors/siddharth-swaroop/</link>
-      <atom:link href="http://localhost:1313/authors/siddharth-swaroop/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/siddharth-swaroop/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/siddharth-swaroop/index.xml" rel="self" type="application/rss+xml" />
     <description>Siddharth Swaroop</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Siddharth Swaroop</title>
-      <link>http://localhost:1313/authors/siddharth-swaroop/</link>
+      <link>https://mjhutchinson.github.io/authors/siddharth-swaroop/</link>
     </image>
     
     <item>
       <title>Differentially Private Federated Variational Inference</title>
-      <link>http://localhost:1313/publication/sharma-2019/</link>
+      <link>https://mjhutchinson.github.io/publication/sharma-2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sharma-2019/</guid>
+      <guid>https://mjhutchinson.github.io/publication/sharma-2019/</guid>
       <description></description>
     </item>
     

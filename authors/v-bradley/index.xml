@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V Bradley | Michael Hutchinson</title>
-    <link>http://localhost:1313/authors/v-bradley/</link>
-      <atom:link href="http://localhost:1313/authors/v-bradley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/v-bradley/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/v-bradley/index.xml" rel="self" type="application/rss+xml" />
     <description>V Bradley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>V Bradley</title>
-      <link>http://localhost:1313/authors/v-bradley/</link>
+      <link>https://mjhutchinson.github.io/authors/v-bradley/</link>
     </image>
     
     <item>
       <title>A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
-      <link>http://localhost:1313/publication/vollmer-2020-report/</link>
+      <link>https://mjhutchinson.github.io/publication/vollmer-2020-report/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vollmer-2020-report/</guid>
+      <guid>https://mjhutchinson.github.io/publication/vollmer-2020-report/</guid>
       <description></description>
     </item>
     

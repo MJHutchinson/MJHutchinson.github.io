@@ -2,61 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Hutchinson</title>
-    <link>http://localhost:1313/authors/michael-hutchinson/</link>
-      <atom:link href="http://localhost:1313/authors/michael-hutchinson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/michael-hutchinson/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Hutchinson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Michael Hutchinson</title>
-      <link>http://localhost:1313/authors/michael-hutchinson/</link>
+      <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
     </image>
     
     <item>
+      <title>Riemannian Score-Based Generative Modelling</title>
+      <link>https://mjhutchinson.github.io/publication/debortalli-2022-riemannian/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/debortalli-2022-riemannian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vector-valued Gaussian Processes on Riemannian Manifolds via Gauge Equivariant Projected Kernels</title>
-      <link>http://localhost:1313/publication/hutchinson-2021-gauge/</link>
+      <link>https://mjhutchinson.github.io/publication/hutchinson-2021-gauge/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hutchinson-2021-gauge/</guid>
+      <guid>https://mjhutchinson.github.io/publication/hutchinson-2021-gauge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Bayesian Inference of Instantaneous Re-production Numbers at Fine Spatial Scales, with an Application to Mapping and Nowcasting the Covid-19 Epidemic in British Local Authorities</title>
-      <link>http://localhost:1313/publication/teh-2021-efficient/</link>
+      <link>https://mjhutchinson.github.io/publication/teh-2021-efficient/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/teh-2021-efficient/</guid>
+      <guid>https://mjhutchinson.github.io/publication/teh-2021-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LieTransformer: Equivariant self-attention for Lie Groups</title>
-      <link>http://localhost:1313/publication/hutchinson-2020-lietransformer/</link>
+      <link>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hutchinson-2020-lietransformer/</guid>
+      <guid>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equivariant Learning of Stochastic Fields: Gaussian Processes and Steerable Conditional Neural Processes </title>
-      <link>http://localhost:1313/publication/holderrieth-2020-equivariant/</link>
+      <link>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holderrieth-2020-equivariant/</guid>
+      <guid>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
-      <link>http://localhost:1313/publication/monod-2020-09-18-20197376/</link>
+      <link>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/monod-2020-09-18-20197376/</guid>
+      <guid>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning Summer School 2020</title>
-      <link>http://localhost:1313/post/2020-06-25-mlss/</link>
+      <link>https://mjhutchinson.github.io/post/2020-06-25-mlss/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-06-25-mlss/</guid>
+      <guid>https://mjhutchinson.github.io/post/2020-06-25-mlss/</guid>
       <description>&lt;h2 id=&#34;poster-presentation&#34;&gt;Poster presentation&lt;/h2&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -64,7 +72,7 @@
 &lt;/div&gt;
 
 &lt;base href=&#34;{{ .Site.BaseURL }}&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/mlss/poster-presentation-slides.pdf&#34;&gt;Slides for this presentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mjhutchinson.github.io/files/mlss/poster-presentation-slides.pdf&#34;&gt;Slides for this presentation&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;papers-mentioned-in-this-talk&#34;&gt;Papers mentioned in this talk&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Steerable CNNs&lt;/strong&gt;. Cohen, T. S., &amp;amp; Welling, M. (2016). &lt;a href=&#34;http://arxiv.org/abs/1612.08498&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
@@ -82,49 +90,49 @@
     
     <item>
       <title>Technical Document 3: Effectiveness and Resource Requirements of Test, Trace and Isolate Strategies</title>
-      <link>http://localhost:1313/publication/he-2020-technical/</link>
+      <link>https://mjhutchinson.github.io/publication/he-2020-technical/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/he-2020-technical/</guid>
+      <guid>https://mjhutchinson.github.io/publication/he-2020-technical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>State-level tracking of COVID-19 in the United States</title>
-      <link>http://localhost:1313/publication/unwin-2020/</link>
+      <link>https://mjhutchinson.github.io/publication/unwin-2020/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/unwin-2020/</guid>
+      <guid>https://mjhutchinson.github.io/publication/unwin-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
-      <link>http://localhost:1313/publication/mellan-2020-report/</link>
+      <link>https://mjhutchinson.github.io/publication/mellan-2020-report/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mellan-2020-report/</guid>
+      <guid>https://mjhutchinson.github.io/publication/mellan-2020-report/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
-      <link>http://localhost:1313/publication/vollmer-2020-report/</link>
+      <link>https://mjhutchinson.github.io/publication/vollmer-2020-report/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vollmer-2020-report/</guid>
+      <guid>https://mjhutchinson.github.io/publication/vollmer-2020-report/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentially Private Federated Variational Inference</title>
-      <link>http://localhost:1313/publication/sharma-2019/</link>
+      <link>https://mjhutchinson.github.io/publication/sharma-2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sharma-2019/</guid>
+      <guid>https://mjhutchinson.github.io/publication/sharma-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Privacy, Approximate Bayesian Inference and Distributed Learning</title>
-      <link>http://localhost:1313/post/2019-10-01-differentially-private-pvi/</link>
+      <link>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2019-10-01-differentially-private-pvi/</guid>
+      <guid>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</guid>
       <description>&lt;p&gt;Modern machine learning techniques are quickly being applied to a vast range of problems in the real world. However, most modern techniques are not well suited to handle a number of difficult situations. A recent piece of work we did aims to combine approaches for tackling three of these.&lt;/p&gt;
 &lt;h3 id=&#34;situations-where-we-would-like-uncertainty-estimates-in-our-predictions&#34;&gt;Situations where we would like uncertainty estimates in our predictions&lt;/h3&gt;
 &lt;p&gt;For tasks such as classifying each photo in you photo library into a number of categories, or tagging them each as a particular person, the downsides to getting the decision wrong are minimal, if annoying for the end user. There are many other settings where the downsides to making the incorrect choice could mean life or death, such as medical applications, or driverless cars.&lt;/p&gt;

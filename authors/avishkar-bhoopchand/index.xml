@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avishkar Bhoopchand* | Michael Hutchinson</title>
-    <link>http://localhost:1313/authors/avishkar-bhoopchand/</link>
-      <atom:link href="http://localhost:1313/authors/avishkar-bhoopchand/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/avishkar-bhoopchand/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/avishkar-bhoopchand/index.xml" rel="self" type="application/rss+xml" />
     <description>Avishkar Bhoopchand*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Avishkar Bhoopchand*</title>
-      <link>http://localhost:1313/authors/avishkar-bhoopchand/</link>
+      <link>https://mjhutchinson.github.io/authors/avishkar-bhoopchand/</link>
     </image>
     
     <item>
       <title>Efficient Bayesian Inference of Instantaneous Re-production Numbers at Fine Spatial Scales, with an Application to Mapping and Nowcasting the Covid-19 Epidemic in British Local Authorities</title>
-      <link>http://localhost:1313/publication/teh-2021-efficient/</link>
+      <link>https://mjhutchinson.github.io/publication/teh-2021-efficient/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/teh-2021-efficient/</guid>
+      <guid>https://mjhutchinson.github.io/publication/teh-2021-efficient/</guid>
       <description></description>
     </item>
     

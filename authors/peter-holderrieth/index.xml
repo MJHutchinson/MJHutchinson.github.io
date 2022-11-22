@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Holderrieth* | Michael Hutchinson</title>
-    <link>http://localhost:1313/authors/peter-holderrieth/</link>
-      <atom:link href="http://localhost:1313/authors/peter-holderrieth/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mjhutchinson.github.io/authors/peter-holderrieth/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/peter-holderrieth/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Holderrieth*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Peter Holderrieth*</title>
-      <link>http://localhost:1313/authors/peter-holderrieth/</link>
+      <link>https://mjhutchinson.github.io/authors/peter-holderrieth/</link>
     </image>
     
     <item>
       <title>Equivariant Learning of Stochastic Fields: Gaussian Processes and Steerable Conditional Neural Processes </title>
-      <link>http://localhost:1313/publication/holderrieth-2020-equivariant/</link>
+      <link>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holderrieth-2020-equivariant/</guid>
+      <guid>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</guid>
       <description></description>
     </item>
     
