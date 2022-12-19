@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angus Phillis* | Michael Hutchinson</title>
+    <link>https://mjhutchinson.github.io/authors/angus-phillis/</link>
+      <atom:link href="https://mjhutchinson.github.io/authors/angus-phillis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angus Phillis*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjhutchinson.github.io/img/icon-192.png</url>
+      <title>Angus Phillis*</title>
+      <link>https://mjhutchinson.github.io/authors/angus-phillis/</link>
+    </image>
+    
+    <item>
+      <title>Spectral Diffusion Processes</title>
+      <link>https://mjhutchinson.github.io/publication/phillips-2022-spectral/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/phillips-2022-spectral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Spectral Diffusion Processes</title>
+      <link>https://mjhutchinson.github.io/publication/phillips-2022-spectral/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/phillips-2022-spectral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riemannian Diffusion Schrödinger Bridge</title>
+      <link>https://mjhutchinson.github.io/publication/thornton-2022-riemannian/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/thornton-2022-riemannian/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
