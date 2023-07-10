@@ -5,12 +5,28 @@
     <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
       <atom:link href="https://mjhutchinson.github.io/authors/michael-hutchinson/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Hutchinson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mjhutchinson.github.io/img/icon-192.png</url>
       <title>Michael Hutchinson</title>
       <link>https://mjhutchinson.github.io/authors/michael-hutchinson/</link>
     </image>
+    
+    <item>
+      <title>Metropolis Sampling for Constrained Diffusion Models</title>
+      <link>https://mjhutchinson.github.io/publication/fishman-metropolis-2023/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/fishman-metropolis-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Models for Constrained Domains</title>
+      <link>https://mjhutchinson.github.io/publication/fishman-diffusion-2023/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/publication/fishman-diffusion-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Riemannian Score-Based Generative Modelling</title>
