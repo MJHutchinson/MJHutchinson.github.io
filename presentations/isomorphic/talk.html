@@ -52,7 +52,7 @@
                 </article>
             </section>
 
-            <section class="h-100" data-auto-animate="" style="display: block;" data-fragment="-1">
+            <section class="h-100" data-auto-animate="" style="display: block;">
                 <div class="r-hstack justify-start h5">
                     <h1>A Bit About Me</h1>
                 </div>
@@ -102,7 +102,7 @@
                                 <img class="column img-fluid my-0 fragment" data-fragment-index="7"
                                     src="figures/icons/dmlg.png">
                                 <img class="column img-fluid my-0 fragment" data-fragment-index="8"
-                                    src="figures/sphere_w_dist.png">
+                                    src="figures/sphere_w_dist.png" data-id="sphere">
                                 <img class="column img-fluid my-0 fragment" data-fragment-index="8"
                                     src="figures/manifold_w_boundary.png">
                                 <img class="column img-fluid my-0 fragment" data-fragment-index="8"
@@ -144,7 +144,7 @@
             </section>
 
 
-            <section class="h-100" data-auto-animate="" style="display: block;" data-fragment="-1">
+            <section class="h-100" data-auto-animate="" style="display: block;">
                 <div class="r-hstack justify-start h5">
                     <h1>Geometry & Score-Based Modelling - A Line of Work</h1>
                 </div>
@@ -152,7 +152,11 @@
                     <div class="r-vstack w-100">
                         <div class="r-hstack w-100 items-start">
                             <div class="r-vstack w-25">
-                                <img class="img-fluid w-75 mb-n3 mt-n4" src="figures/sphere_w_dist.png">
+                                <!-- <img class="img-fluid w-75 mb-n3 mt-n4" src="figures/sphere_w_dist.png"> -->
+                                <div class="w-75 mb-n3 mt-n4">
+                                    <img class="column img-fluid my-0" data-fragment-index="8" data-id="sphere"
+                                        src="figures/sphere_w_dist.png">
+                                </div>
                                 <h2 class="my-0 small">
                                     <div data-id="title">Manifolds</div>
                                 </h2>
@@ -2123,11 +2127,12 @@
                         <div class="r-vstack w-100">
                             <h1 class="h5 fragment">What did I contribute?</h1>
                             <ul>
-                                <li class="fragment">Project conception and initiation. (+Emile)</li>
-                                <li class="fragment">Practical approach to many of issues faced on manifolds. (+Emile)
+                                <li class="fragment">With Emile, initiated the project the project.</li>
+                                <li class="fragment">With Emile, contributed solutions to the practical issues faced.
                                 </li>
-                                <li class="fragment"> Writing code and running experiments. (+Emile)</li>
-                                <li class="fragment">Some of the mathematical results. (+Valentin)</li>
+                                <li class="fragment">With Emile, wrote the code and ran experiments.</li>
+                                <li class="fragment">The mathematical results are mostly due to Valentin, I proved some
+                                    regarding the ISM loss.</li>
                             </ul>
                         </div>
                     </div>
