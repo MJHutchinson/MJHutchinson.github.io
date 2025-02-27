@@ -799,6 +799,11 @@ table {
     margin-bottom: 0px !important;
 }
 
+.mord {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
 ol,
 ul {
     margin-left: 2em !important;
@@ -828,7 +833,7 @@ section h1:first-child {
 }
 
 .reveal {
-    /* color: #ce2e31; */
+    color: #ce2e31;
 }
 
 .slide-number {

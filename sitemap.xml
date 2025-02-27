@@ -1,589 +1,355 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mjhutchinson.github.io/authors/michael-john-hutchinson/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication_types/2/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/matieu-geometric-2023/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication_types/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/richard-e-turner/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/valentin-de-bortoli/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/vincent-dutordoir/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/yee-whye-teh/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/emile-mathieu/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/leo-klarner/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/fishman-metropolis-2023/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/michael-hutchinson/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/nic-fishman/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/fishman-diffusion-2023/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/arnaud-doucet/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/talk/geometry-score-based-models/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/james-thornton/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/talk/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/deborteli-2022-riemannian/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/angus-phillis/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/phillips-2022-spectral/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/thomas-seror/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/thornton-2022-riemannian/</loc>
     <lastmod>2022-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/christos-louizos/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/hutchinson-2021-federated/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/matthias-reisser/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/alexander-terenin/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/marc-peter-deisenroth/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/so-takao/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/hutchinson-2021-gauge/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/viacheslav-borovitskiy/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/avishkar-bhoopchand/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/bobby-he/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/bryn-elesedy/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/teh-2021-efficient/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/jonathan-read/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/nenad-tomasev/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/peter-diggle/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/sheheryar-zaidi/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/ulrich-paquet/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/charline-le-lan/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/emilien-dupont/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/hyunjik-kim/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/hutchinson-2020-lietransformer/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/holderrieth-2020-equivariant/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/peter-holderrieth/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/monod-2020-09-18-20197376/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/alexandra-blenkinsop/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/anne-bezancon/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/axel-gandy/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/daniel-hebert/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/h-juliette-t-unwin/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/harrison-zhu/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/helen-coupland/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/jonathan-ish-horowicz/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/martin-mcmanus/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/michaela-a.-c.-vollmer/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/melodie-monod/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/neil-m-ferguson/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/oliver-ratmann/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/samir-bhatt/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/sarah-filippi/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/sebastian-weber/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/seth-flaxman/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/simon-tietze/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/sivan-bershan/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/swapnil-mishra/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/thomas-a-mellan/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/valerie-c-bradley/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/xiaoyue-xi/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/yu-chen/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/post/2020-06-25-mlss/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/post/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/andrei-paleyes/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/anne-johnson/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/guy-harling/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/he-2020-technical/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication_types/4/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/charlie-whittaker/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/kylie-ainslie/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/michaela-a-c-vollmer/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/others-_truncated-for-brevity_/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/unwin-2020/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/thomas-mellan/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/henrique-h-hoeltgebaum/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/iwona-hawryluk/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/juan-vesga/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/nuno-rodrigues-faria/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/mellan-2020-report/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/ricardo-p-schnekenberg/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/a-gandy/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/vollmer-2020-report/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/h-coupland/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/h-unwin/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/h-zhu/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/i-hawryluk/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/m-vollmer/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/s-mishra/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/t-melan/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/v-bradley/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/news/</loc>
     <lastmod>2019-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/news/statml_2019_begin/</loc>
     <lastmod>2019-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication_types/1/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/antti-honkela/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/publication/sharma-2019/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/news/neurips_2019_diff_priv/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/mrinank-sharma/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/siddharth-swaroop/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/post/2019-10-01-differentially-private-pvi/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/redirect/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/iso/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mjhutchinson.github.io/viva/</loc>
+  </url><url>
     <loc>https://mjhutchinson.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/project/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mjhutchinson.github.io/tags/</loc>
   </url>
-  
 </urlset>

@@ -229,16 +229,16 @@
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Blei, David M., Alp Kucukelbir, and Jon D. McAuliffe. &amp;ldquo;Variational inference: A review for statisticians.&amp;rdquo; Journal of the American statistical Association 112.518 (2017): 859-877. &lt;a href=&#34;https://arxiv.org/abs/1601.00670&#34;&gt;arxiv&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Blei, David M., Alp Kucukelbir, and Jon D. McAuliffe. &amp;ldquo;Variational inference: A review for statisticians.&amp;rdquo; Journal of the American statistical Association 112.518 (2017): 859-877. &lt;a href=&#34;https://arxiv.org/abs/1601.00670&#34;&gt;arxiv&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Carlini, Nicholas, et al. &amp;ldquo;The secret sharer: Measuring unintended neural network memorization &amp;amp; extracting secrets.&amp;rdquo; arXiv preprint arXiv:1802.08232 (2018). &lt;a href=&#34;https://arxiv.org/abs/1802.08232&#34;&gt;arxiv&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Carlini, Nicholas, et al. &amp;ldquo;The secret sharer: Measuring unintended neural network memorization &amp;amp; extracting secrets.&amp;rdquo; arXiv preprint arXiv:1802.08232 (2018). &lt;a href=&#34;https://arxiv.org/abs/1802.08232&#34;&gt;arxiv&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Dwork, Cynthia, and Aaron Roth. &amp;ldquo;The algorithmic foundations of differential privacy.&amp;rdquo; Foundations and Trends® in Theoretical Computer Science 9.3–4 (2014): 211-407. &lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/privacybook.html&#34;&gt;website&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dwork, Cynthia, and Aaron Roth. &amp;ldquo;The algorithmic foundations of differential privacy.&amp;rdquo; Foundations and Trends® in Theoretical Computer Science 9.3–4 (2014): 211-407. &lt;a href=&#34;https://www.cis.upenn.edu/~aaroth/privacybook.html&#34;&gt;website&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Bui, Thang D., et al. &amp;ldquo;Partitioned Variational Inference: A unified framework encompassing federated and continual learning.&amp;rdquo; arXiv preprint arXiv:1811.11206 (2018). &lt;a href=&#34;https://arxiv.org/abs/1811.11206&#34;&gt;arxiv&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bui, Thang D., et al. &amp;ldquo;Partitioned Variational Inference: A unified framework encompassing federated and continual learning.&amp;rdquo; arXiv preprint arXiv:1811.11206 (2018). &lt;a href=&#34;https://arxiv.org/abs/1811.11206&#34;&gt;arxiv&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -250,6 +250,14 @@
       <link>https://mjhutchinson.github.io/iso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mjhutchinson.github.io/iso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mjhutchinson.github.io/viva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mjhutchinson.github.io/viva/</guid>
       <description></description>
     </item>
     
