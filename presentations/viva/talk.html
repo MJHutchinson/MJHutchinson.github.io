@@ -715,6 +715,34 @@
 
             <section data-auto-animate="" hidden="" aria-hidden="true" class="future" style="display: block;">
                 <div class="r-hstack justify-start h5">
+                    <h1>Geodesic random walks</h1>
+                </div>
+                <div class="r-stretch r-vstack items-center">
+                    <p class="w-100 fragment">The drift, \(\v{b}(\v{X}_t) \Delta t\), and diffusion noise, \(\sigma(x)
+                        \Delta
+                        \v{B}_t\), at each
+                        step are <em>tangent
+                            vector</em>-valued
+                        objects</p>
+                    <p class="w-100 fragment">&rarr; Replace the Euler step with the <em>exponential map</em>,
+                        \(\v{X}_{t +
+                        \Delta t} = \exp(\v{X}_t, \v{b}(\v{X}_t) \Delta t + \sigma(x) \Delta
+                        \v{B}_t\)</p>
+                    <div class="w-100 columns fragment">
+                        <div class="column">
+                            <img src="figures/manifold/sphere_plane.png" class="w-50">
+                        </div>
+                        <div class="column">
+                            <img src="figures/manifold/grw.png" class="w-50">
+                        </div>
+                    </div>
+                    <p class="fragment">We extend error-bound results to cover the time-inhomogeneous case of diffusion
+                        models</p>
+                </div>
+            </section>
+
+            <section data-auto-animate="" hidden="" aria-hidden="true" class="future" style="display: block;">
+                <div class="r-hstack justify-start h5">
                     <h1>Earth-Science Datasets</h1>
                 </div>
                 <div class="r-vstack w-100">
