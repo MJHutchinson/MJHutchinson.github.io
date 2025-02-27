@@ -909,7 +909,7 @@ section footer {
 }
 
 .slides {
-    border: 1px solid black !important;
+    /* border: 1px solid black !important; */
 }
 
 .year-box {

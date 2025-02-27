@@ -529,6 +529,192 @@
 
             <section data-auto-animate="" hidden="" aria-hidden="true" class="future" style="display: block;">
                 <div class="r-hstack justify-start h5">
+                    <h1 class="">
+                        <div data-id="FP">Forward Process</div>
+                    </h1>
+
+                </div>
+                <div class="r-vstack items-start">
+                    <p class="mt-0 frgment">The typical forward SDE is in fact a specific form of <em>Langevin
+                            dynamics</em></p>
+                    <div class="w-100 r-hstack fragment mt-2"><span>\(\d \X = \langdrift \d t + \langnoise \brownian\)
+                        </span><span class="fragment fade-right" style="transition: all 1.5s ease;">\(\quad
+                            \xrightarrow[t\to \infty]{\text{converges
+                            to}}\quad
+                            p(\m{X}) \propto
+                            e^{-U(\m{X})}\)</span></div>
+                    <p class="fragment">Where you have \(U(\m{X}) = \norm{\m{X}}^2\), this gives a Gaussian</p>
+                    <p class="fragment">As it turns out, Langevin dynamics still hold on most
+                        manifolds</p>
+                    <div class="w-100 r-hstack fragment mt-2"><span>\(\d \X = \langdrift \d t + \langnoise
+                            \brownian^\c{M}\)
+                        </span><span class="fragment fade-right animate-1-5">\(\quad
+                            \xrightarrow[t\to \infty]{\text{converges
+                            to}}\quad
+                            \frac{\d p}{\d \operatorname{Vol}_\c{M}} (\m{X}) \propto e^{-U(\m{X})}\)</span></div>
+                    <div class="columns w-100 mt-3">
+                        <div class="column r-vstack items-center fragment fade-up" style="overflow: visible;">
+                            <div class="caption mb-0 p-div small">Riemannian normal</div>
+                            <img class="my-0 w-50" style="height: 190px; object-fit: cover; object-position: bottom;"
+                                src="figures/manifold/sphere_riemannian_gaussian.png">
+                            <div class="w-100 footnotesize">\(U(\m{X}) = d_\c{M}(\m{X}, \mu)^2\)</div>
+                        </div>
+                        <div class="column r-vstack items-center fragment fade-up" data-id="wrap">
+                            <div class="caption mb-0 p-div small">Wrapped normal</div>
+                            <img class="my-0 w-50" style="height: 190px; object-fit: cover; object-position: bottom;"
+                                src="figures/manifold/sphere_riemannian_gaussian.png">
+                            <div class="w-100 footnotesize">\(U(\m{X}) = d_\c{M}(\m{X}, \mu)^2 + \log|D
+                                \exp_\mu^{-1}(\m{X})|\)
+                            </div>
+                        </div>
+                        <div class="column r-vstack items-center fragment fade-up" data-id="unif">
+                            <div class="caption mb-0 p-div small">
+                                <div>Uniform</div>
+                            </div>
+                            <img class="my-0 w-50" style="height: 190px; object-fit: cover; object-position: bottom;"
+                                src="figures/manifold/sphere_uniform.png">
+                            <div class="w-100 footnotesize">\(U(\m{X}) = 0\)</div>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <section data-auto-animate="" hidden="" aria-hidden="true" class="future" style="display: block;">
+                <div class="r-hstack justify-start h5">
+                    <h1>
+                        <div data-id="approx-score">Approximating \(\nabla_{\m{X}_t}\log
+                            p_{t|0}(\m{X}_t | \m{X}_0)
+                            \)</div>
+                    </h1>
+                    <h1>&nbsp;</h1>
+                    <h1 class="">
+                        <div>on Manifolds</div>
+                    </h1>
+
+                </div>
+                <div class="columns">
+                    <div class="column">
+                        <h5 class="fragment"><b>Strum-Louiville (compact only)</b></h5>
+                        <p class="fragment">If we have the <em>eigenpairs</em> \((\lambda_j, \phi_j)\) of the
+                            <em>Laplace-Beltrami
+                                operator \( \Delta_\c{M}\)</em> then
+                        </p>
+                        <div class="w-100 fragment">
+                            <div class="w-100">
+                                \( p_{t|0}(\m{X}_t | \m{X}_0) =\)
+                            </div>
+                            <div class="w-100 mt-2">
+                                \(\sum_{j\in\N} e^{-\lambda_i t} \phi_j(\m{X}_0) \phi_j(\m{X}_t) \)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <h5 class="fragment"><b>Varadhan</b></h5>
+                        <p class="fragment">Alternatively we have in the small time limit:</p>
+                        <div class="w-100 fragment">
+
+                            <div class="w-100">
+                                \( \lim_{t\to 0} \nabla_{\m{X}_t}\log
+                                p_{t|0}(\m{X}_t | \m{X}_0)\)
+                            </div>
+                            <div class="w-100 mt-2">
+                                \( = \exp^{-1}(\m{X}_t, \m{X}_0) / t\)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <img class="img-fluid w-75 mt-5 fragment" src="figures/manifold/s2_heat_kernel_approximation.svg">
+            </section>
+
+            <section data-auto-animate="" hidden="" aria-hidden=" true" class="future" style="display: block;">
+                <div class="r-hstack justify-start h5">
+                    <h1>Score matching losses on manifolds
+                    </h1>
+
+                </div>
+                <div class="r-stretch r-vstack items-center">
+
+                    <table class="w-100 small">
+                        <tr class="">
+                            <th class="" style="border: 0 !important;">Loss</th>
+                            <th class="" style="border: 0 !important;">Approximation</th>
+                            <th class="" style="border: 0 !important;">Loss function</th>
+                            <th class="" style="border: 0 !important;" colspan="2">Requirements</th>
+                            <th class="" style="border: 0 !important;">Complexity</th>
+                        </tr>
+                        <tr class="midrule">
+                            <th class=""></th>
+                            <th class=""></th>
+                            <th class=""></th>
+                            <th class="">\(p_{t|0}\)</th>
+                            <th class="">\( \exp^{-1} \)</th>
+                            <th class=""></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="3" style="vertical-align: middle;">DSM</td>
+                            <td>None</td>
+                            <td>\(\E\sbr{\norm{\m{s}(\X ) - \nabla_{\m{X}_t}\log
+                                p_{t|0}(\m{X}_t | \m{X}_0)}^2}\)</td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/tick.svg">
+                            </td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/cross.svg">
+                            </td>
+                            <td>\(\c{O}(1)\)</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">Truncation</td>
+                            <td>\(\E\sbr{\norm{\m{s}(\X ) - \nabla_{\m{X}_t}\log S_J(\m{X}_t, \m{X}_0)}^2}\)</td>
+                            <td>Expansion</td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/cross.svg">
+                            </td>
+                            <td>\(\c{O}(1)\)</td>
+                        </tr>
+                        <tr class="midrule">
+                            <td style="text-align: center;">Varhardan</td>
+                            <td>\(\E\sbr{\norm{\m{s}(\X ) - \exp_{\m{X}_t}^{-1}(\m{X}_s)/t}}\)</td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/cross.svg">
+                            </td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/tick.svg">
+                            </td>
+                            <td>\(\c{O}(1)\)</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" style="vertical-align: middle;">ISM</td>
+                            <td>Deterministic</td>
+                            <td>\(\E\sbr{\norm{\m{s}(t, \m{X}_t)}^2 + 2 \operatorname{div}(t, \cdot)(\m{X}_t)}\)</td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/cross.svg">
+                            </td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/cross.svg">
+                            </td>
+                            <td>\(\c{O}(d)\)</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">Stochastic</td>
+                            <td>\(\E\sbr{\norm{\m{s}(t, \m{X}_t)}^2 + 2 \m{\varepsilon}^\top\operatorname{div}(t,
+                                \cdot)(\m{X}_t)\m{\varepsilon}}\)</td>
+
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/cross.svg">
+                            </td>
+                            <td>
+                                <img style="height: 0.8em;" class="my-0 img-fluid" src="figures/icons/cross.svg">
+                            </td>
+                            <td>\(\c{O}(1)\)</td>
+                        </tr>
+                    </table>
+                </div>
+            </section>
+
+            <section data-auto-animate="" hidden="" aria-hidden="true" class="future" style="display: block;">
+                <div class="r-hstack justify-start h5">
                     <h1>Earth-Science Datasets</h1>
                 </div>
                 <div class="r-vstack w-100">
@@ -595,8 +781,18 @@
                             <div class="d-table-cell">12809</div>
                         </div>
                     </div>
-                    <p class="fragment">Other applications on high dimension tori, Lie groups, and hyperbolic space</p>
                 </div>
+            </section>
+
+            <section data-auto-animate="" hidden="" aria-hidden="true" class="future" style="display: block;">
+                <div class="r-hstack justify-start h5">
+                    <h1>High-Dimension Tori</h1>
+                </div>
+                <p class="fragment mt-n4">Place a 2-mode mixture-of-Gaussian ditribution on \(\c{S}_1^n\).</p>
+                <div class="r-vstack w-100 fragment">
+                    <img class="img-fluid w-100" src="figures/manifold/high-dim.svg">
+                </div>
+                <p class="fragment">Other applications on Lie groups, and hyperbolic space</p>
             </section>
 
             <section data-auto-animate="" hidden="" aria-hidden="true" class="future" style="display: block;">
@@ -1829,7 +2025,7 @@
                                 for
                                 Constrained Diffusion Models
                                 .<br>N. Fishman, L. Klarner, E. Mathieu, M. Hutchinson, V. D. Bortoli.
-                                <em>arXiv:2307.05439</em>, 2023.
+                                <em>Neurips</em>, 2023.
                             </p>
                             <p class="mt-3 mb-0 footnotesize" data-fragment-index="0">
                                 Geometric Neural Diffusion Processes.<br>E. Mathieu*, V. Dutordoir*, M.
@@ -1838,7 +2034,7 @@
                                 D.
                                 Bortoli, Y. W. Teh, R. Turner.
 
-                                <em>arXiv:2307.05431</em>, 2023.
+                                <em>Neurips</em>, 2023.
                             </p>
                         </div>
                         <!-- <div class="column"></div> -->
@@ -2141,7 +2337,7 @@
                             p(\m{X}) \propto
                             e^{-U(\m{X})}\)</span></div>
                     <p class="fragment">Where you have \(U(\m{X}) = \norm{\m{X}}^2\), this gives a Gaussian</p>
-                    <p class="mt-0 fragment">As it turns out, Langevin dynamics still hold on most
+                    <p class="fragment mt-5">As it turns out, Langevin dynamics still hold on most
                         manifolds</p>
                     <div class="w-100 r-hstack fragment"><span>\(\d \X = \langdrift \d t + \langnoise \brownian^\c{M}\)
                         </span><span class="fragment fade-right animate-1-5">\(\quad
